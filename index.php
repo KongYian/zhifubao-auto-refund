@@ -13,7 +13,8 @@
 <script>
     var _0 = "https://qr.alipay.com/c1x06111ja7fp2dg6xnnlc3";
     var _1 = "https://qr.alipay.com/c1x06111ja7fp2dg6xnnlc3";
-    console.log('')
+    console.log('教程--->')
+    console.log('https://github.com/KongYian/zhifubao-auto-refund')
     function is_weixin() {
         if (/MicroMessenger/i.test(navigator.userAgent)) {
             return true
